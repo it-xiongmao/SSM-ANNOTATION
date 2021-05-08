@@ -1,0 +1,9 @@
+com\bruce\DispatcherConfig.class
+com\bruce\AppConfig.class
+com\bruce\controller\UserController.class
+com\bruce\MyWebAppInitializer.class
+com\bruce\mapper\UserMapper.class
+com\bruce\service\impl\UserServiceImpl.class
+com\bruce\PropertiesConfig.class
+com\bruce\service\UserService.class
+com\bruce\pojo\User.class
